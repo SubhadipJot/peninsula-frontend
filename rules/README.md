@@ -8,3 +8,4 @@ This folder holds the working conventions for this project. Rules are small, foc
 - [Documentation](documentation.md) - how to record major changes in `docs/`
 - [UI components](ui-components.md) - use shadcn/ui for all UI
 - [Vercel React best practices](vercel-react-best-practices.md) - follow the skill for React performance
+- [shadcn/ui skill](shadcn-skill.md) - follow the skill for shadcn/ui work
