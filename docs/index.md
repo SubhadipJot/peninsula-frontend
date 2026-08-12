@@ -15,3 +15,5 @@ Major changes are documented as dated files in [changes/](changes/).
 | 2026-08-12 | [changes/2026-08-12-shadcn-skill.md](changes/2026-08-12-shadcn-skill.md) | Installed shadcn/ui skill |
 | 2026-08-12 | [changes/2026-08-12-welcome-screen.md](changes/2026-08-12-welcome-screen.md) | Removed boilerplate, added welcome screen |
 | 2026-08-12 | [changes/2026-08-12-routing.md](changes/2026-08-12-routing.md) | React Router + production-ready structure |
+| 2026-08-12 | [changes/2026-08-12-frontend-design-skill.md](changes/2026-08-12-frontend-design-skill.md) | Installed frontend design skill |
+| 2026-08-12 | [changes/2026-08-12-landing-page.md](changes/2026-08-12-landing-page.md) | Dark-mode landing page with agent network animation |

@@ -5,6 +5,8 @@ import { RouterProvider } from "react-router-dom"
 import { router } from "@/router"
 import "@/index.css"
 
+document.documentElement.classList.add("dark")
+
 const root = document.getElementById("root")
 
 if (root) {

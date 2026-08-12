@@ -1,11 +1,12 @@
 import { createBrowserRouter } from "react-router-dom"
 
+import { LandingLayout } from "@/layouts/landing-layout"
 import { RootLayout } from "@/layouts/root-layout"
 
 export const router = createBrowserRouter([
   {
     path: "/",
-    element: <RootLayout />,
+    element: <LandingLayout />,
     children: [
       {
         index: true,
@@ -14,6 +15,11 @@ export const router = createBrowserRouter([
           return { Component: HomePage }
         },
       },
+    ],
+  },
+  {
+    element: <RootLayout />,
+    children: [
       {
         path: "jobs",
         lazy: async () => {
