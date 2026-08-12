@@ -11,3 +11,4 @@ Major changes are documented as dated files in [changes/](changes/).
 | 2026-08-12 | [changes/2026-08-12-vite-setup.md](changes/2026-08-12-vite-setup.md) | Initial Vite React scaffold |
 | 2026-08-12 | [changes/2026-08-12-pnpm-switch.md](changes/2026-08-12-pnpm-switch.md) | Switched package manager to pnpm |
 | 2026-08-12 | [changes/2026-08-12-typescript-tailwind-shadcn.md](changes/2026-08-12-typescript-tailwind-shadcn.md) | TypeScript + Tailwind + shadcn/ui setup |
+| 2026-08-12 | [changes/2026-08-12-vercel-react-skill.md](changes/2026-08-12-vercel-react-skill.md) | Installed Vercel React best practices skill |
