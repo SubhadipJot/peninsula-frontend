@@ -8,9 +8,9 @@ import {
   CardTitle,
 } from "@/components/ui/card"
 
-function App() {
+export function HomePage() {
   return (
-    <main className="flex min-h-svh items-center justify-center bg-background p-6">
+    <div className="flex min-h-[60svh] items-center justify-center">
       <Card className="w-full max-w-md text-center">
         <CardHeader>
           <CardTitle className="text-2xl">Welcome to Peninsula</CardTitle>
@@ -27,8 +27,6 @@ function App() {
           <Button>Get Started</Button>
         </CardFooter>
       </Card>
-    </main>
+    </div>
   )
 }
-
-export default App

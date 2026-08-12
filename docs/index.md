@@ -14,3 +14,4 @@ Major changes are documented as dated files in [changes/](changes/).
 | 2026-08-12 | [changes/2026-08-12-vercel-react-skill.md](changes/2026-08-12-vercel-react-skill.md) | Installed Vercel React best practices skill |
 | 2026-08-12 | [changes/2026-08-12-shadcn-skill.md](changes/2026-08-12-shadcn-skill.md) | Installed shadcn/ui skill |
 | 2026-08-12 | [changes/2026-08-12-welcome-screen.md](changes/2026-08-12-welcome-screen.md) | Removed boilerplate, added welcome screen |
+| 2026-08-12 | [changes/2026-08-12-routing.md](changes/2026-08-12-routing.md) | React Router + production-ready structure |

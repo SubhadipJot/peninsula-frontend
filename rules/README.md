@@ -9,3 +9,4 @@ This folder holds the working conventions for this project. Rules are small, foc
 - [UI components](ui-components.md) - use shadcn/ui for all UI
 - [Vercel React best practices](vercel-react-best-practices.md) - follow the skill for React performance
 - [shadcn/ui skill](shadcn-skill.md) - follow the skill for shadcn/ui work
+- [Frontend structure & routing](frontend-structure.md) - how to add pages and routes
